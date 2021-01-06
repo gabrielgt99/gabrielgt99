@@ -17,7 +17,7 @@
   <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
- ![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
+![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
 
 </div>
 
