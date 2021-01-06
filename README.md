@@ -6,7 +6,7 @@
 - 👯 I am looking to collaborate on some fun project with Python
 - 🤔 I'm looking for help with Golang
 - 💬 Ask me about anything
-- 🔗 Links of interest: [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/244148), [Codeforces](https://codeforces.com/profile/gabrielgt99)
+- ⚔️ Links of interest: [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/244148), [Codeforces](https://codeforces.com/profile/gabrielgt99)
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-tapias/)
 - ⚡ Fun fact: I have visited in 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 and soon in 🇺🇸 and 🇧🇷
 <!--
