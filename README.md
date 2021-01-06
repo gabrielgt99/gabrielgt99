@@ -1,13 +1,13 @@
 ### std::cout << "Hi there 👋\n";
 
 
-- 🔭 Actualmente estoy trabajando en IFX Networks
-- 🌱 Actualmente estoy aprendiendo más sobre Python y Go
-- 👯 Estoy buscando colaborar en algun proyecto divertido con Python
-- 🤔 Estoy buscando ayuda con Golang
-- 💬 Pregúntame sobre cualquier cosa
-- 📫 Cómo contactarme: https://www.linkedin.com/in/gabriel-gonzalez-tapias/
-- ⚡ Dato curioso: He visitado en 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 y proximamente en 🇺🇸 y 🇧🇷
+- 🔭 I am currently working at IFX Networks
+- 🌱 I am currently learning more about Python and Go
+- 👯 I am looking to collaborate on some fun project with Python
+- 🤔 I'm looking for help with Golang
+- 💬 Ask me about anything
+- 📫 How to contact me: https://www.linkedin.com/in/gabriel-gonzalez-tapias/
+- ⚡ Fun fact: I have visited in 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 and soon in 🇺🇸 and 🇧🇷
 
 <!--
 **gabrielgt99/gabrielgt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
