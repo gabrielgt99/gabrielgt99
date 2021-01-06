@@ -1,5 +1,6 @@
-### std::cout << "Hi there 👋\n";
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+### std::cout << "Hi there 👋\n";
 
 - 🔭 I am currently working at [IFX Networks](https://www.ifxnetworks.com/)
 - 🌱 I am currently learning more about Python and Go
