@@ -9,6 +9,8 @@
 - ⚔️ Links of interest: [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/244148), [Codeforces](https://codeforces.com/profile/gabrielgt99)
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-tapias/)
 - ⚡ Fun fact: I have visited in 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 and soon in 🇺🇸 and 🇧🇷
+
+![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
 <!--
 **gabrielgt99/gabrielgt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **https://es.piliapp.com/emoji/list/flags/ BANDERAS
