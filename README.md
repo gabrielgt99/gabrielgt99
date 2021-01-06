@@ -12,6 +12,15 @@
 - ⚡ Fun fact: I have visited in 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 and soon in 🇺🇸 and 🇧🇷
 
 ![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgt99&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of Python 😛</small>
+  <br />
+  <br />
+</div>
+
 <!--
 **gabrielgt99/gabrielgt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **https://es.piliapp.com/emoji/list/flags/ BANDERAS
