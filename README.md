@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
+![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=false)
 
 </div>
 
