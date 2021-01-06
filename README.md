@@ -11,14 +11,14 @@
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-tapias/)
 - ⚡ Fun fact: I have visited in 🇨🇴, 🇪🇸, 🇵🇹, 🇫🇷, 🇨🇱, 🇩🇴 and soon in 🇺🇸 and 🇧🇷
 
-![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
-
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgt99&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
+ ![Gabriel Gonzalez's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgt99&show_icons=true&hide_border=true)
+
 </div>
 
 <!--
